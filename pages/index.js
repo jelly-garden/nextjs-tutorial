@@ -5,6 +5,9 @@ import styles from '../styles/Home.module.css'
 export default function Home() {
   return (
     <div>
+      <Head>
+        <title>HOME | 넥스트JS</title>
+      </Head>
       create-next-app
       <br />
       1. 컴파일과 번들링이 자동으로 된다 (webpack 과 babel)
